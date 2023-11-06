@@ -45,4 +45,3 @@ Course on Udemy : https://www.udemy.com/course/javascript-ru/
 - Ukrainian C2
 - Russian C2
 - English B2
-
