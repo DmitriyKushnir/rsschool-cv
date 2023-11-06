@@ -32,4 +32,17 @@ const sumObjectValues = (object) => {
 };
 ```
 
-## 
+## Projects
+
+My learning projects (HTML,CSS,JS,jquery) : https://dmitriykushnir.github.io/bike/ , https://dmitriykushnir.github.io/Mashina/ .
+
+## Education
+
+Course on Udemy : https://www.udemy.com/course/javascript-ru/
+
+## Languages
+
+- Ukrainian C2
+- Russian C2
+- English B2
+
