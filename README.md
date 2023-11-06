@@ -1,2 +1,1 @@
-# rsschool-cv
-My first task at rsschool
+https://DmitriyKushnir.github.io/rsschool-cv/cv
